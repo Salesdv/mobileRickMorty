@@ -55,3 +55,10 @@ Pedro Henrique Pereira Sales
 
 Este projeto está licenciado sob a licença Creative Commons Attribution 4.0 International. Veja o arquivo `LICENSE` para mais detalhes.
 
+## Imagens da tela em funcionamenmto
+
+![alt text](<Captura de tela 2025-06-17 234002.png>)
+![alt text](<Captura de tela 2025-06-17 234018.png>)
+![alt text](<Captura de tela 2025-06-17 234056.png>)
+![alt text](<Captura de tela 2025-06-17 234136.png>)
+![alt text](<Captura de tela 2025-06-17 234148.png>)
